@@ -1,6 +1,6 @@
 # Hi there, I'm Alessio Falcini! 👋
 
-I'm a passionate Computer Science student and an aspiring security researcher. I love diving deep into systems to understand how they work (and how to break them).
+I'm a passionate Computer Science student and an aspiring ethical hacker. I love diving deep into systems to understand how they work (and how to break them).
 
 ## 🚀 About Me
 
@@ -11,7 +11,7 @@ I'm a passionate Computer Science student and an aspiring security researcher. I
 
 ## 🛠️ Skills
 
-Here are the technologies and tools I work with:
+### 💻 Programming & Technologies
 
 <p align="left">
   <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
@@ -37,7 +37,33 @@ Here are the technologies and tools I work with:
   </a>
 </p>
 
+### 🔐 Cybersecurity & Tools
+
+<p align="left">
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" /> 
+  </a>
+  <a href="https://www.kali.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Kali_Linux-557C94?style=for-the-badge&logo=kali-linux&logoColor=white" alt="Kali Linux" /> 
+  </a>
+  <a href="https://www.wireshark.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white" alt="Wireshark" /> 
+  </a>
+  <a href="https://nmap.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Nmap-blue?style=for-the-badge&logo=nmap&logoColor=white" alt="Nmap" /> 
+  </a>
+  <a href="https://portswigger.net/burp" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Burp_Suite-F3663F?style=for-the-badge&logo=burpsuite&logoColor=white" alt="Burp Suite" /> 
+  </a>
+  <a href="https://www.metasploit.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/Metasploit-333333?style=for-the-badge&logo=metasploit&logoColor=white" alt="Metasploit" /> 
+  </a>
+  <a href="https://github.com/vanhauser-thc/thc-hydra" target="_blank" rel="noreferrer"> 
+    <img src="https://img.shields.io/badge/THC_Hydra-black?style=for-the-badge&logo=hack-the-box&logoColor=white" alt="Hydra" /> 
+  </a>
+</p>
+
 ---
 <p align="center">
-  <i>Let's connect and hack the planet! 🌍</i>
+  <i>A world without hackers would be a world without curiosity and innovation.🌍</i>
 </p>
